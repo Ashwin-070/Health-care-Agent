@@ -1,0 +1,19 @@
+Quick Setup & Run
+
+Clone or Download this repository.
+
+Open the folder in VS Code (or any editor).
+
+Run the project:
+
+npm install
+npm start
+
+
+Open your browser → go to http://localhost:3000/
+
+Use the chatbot:
+
+Type a health-related query or upload a sample report.
+
+The AI will analyze and respond with structured insights

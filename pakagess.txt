@@ -1,0 +1,54 @@
+Main Dependencies (84 packages):
+Core Framework & Server:
+express - Web server framework
+express-session - Session management
+ws - WebSocket support
+dotenv - Environment variables
+AI & Authentication:
+@google/genai - Google Gemini AI integration
+bcryptjs - Password hashing
+jsonwebtoken - JWT tokens
+passport & passport-local - Authentication
+openid-client - OAuth/OpenID
+React & UI (Radix UI components):
+react & react-dom - Core React
+@radix-ui/react-* (20+ components) - Accessible UI primitives
+framer-motion - Animations
+lucide-react - Icons
+react-icons - More icons
+next-themes - Theme switching
+Forms & Data:
+react-hook-form - Form handling
+@hookform/resolvers - Form validation
+zod & zod-validation-error - Schema validation
+@tanstack/react-query - Data fetching/caching
+Database & ORM:
+drizzle-orm & drizzle-zod - Database ORM
+@neondatabase/serverless - Neon database
+connect-pg-simple - PostgreSQL sessions
+Styling & UI Utilities:
+tailwind-merge & tailwindcss-animate - Tailwind utilities
+class-variance-authority - CSS class variants
+clsx - Conditional classes
+tw-animate-css - Tailwind animations
+Other Features:
+twilio - SMS/communication
+recharts - Data visualization
+date-fns - Date utilities
+wouter - Routing
+memoizee - Function memoization
+vaul - Drawer component
+cmdk - Command palette
+embla-carousel-react - Carousel
+input-otp - OTP input
+react-day-picker - Date picker
+react-resizable-panels - Resizable panels
+Dev Dependencies (23 packages):
+vite & @vitejs/plugin-react - Build tool
+typescript & tsx - TypeScript support
+tailwindcss & @tailwindcss/* - CSS framework
+esbuild - JavaScript bundler
+cross-env - Cross-platform environment variables
+drizzle-kit - Database migrations
+@types/* - TypeScript type definitions
+@replit/* - Replit-specific plugins
